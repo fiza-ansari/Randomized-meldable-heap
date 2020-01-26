@@ -9,6 +9,6 @@ A randomized meldable heap (also Meldable Heap or Randomized Meldable Priority Q
 + 5. Meld(Q1; Q2) returns the priority queue formed by combining disjoint priority queues Q1 and Q2.
 
 ## CONTRIBUTORS:
-- FIZA KHALID
-- HUMEMAH KHALID
+- FIZA KHALID (
+- HUMEMAH KHALID (https://github.com/humemah/Randomized-Meldable-Heap)
 - SAMEERA SHEHZAD 
