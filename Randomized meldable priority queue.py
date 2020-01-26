@@ -37,6 +37,7 @@ class Priority_queue:
     
     def random(self,y):
         import random
+        random.choice(y)
        
     def meld(self,h1,h2):
         if h1==None:
