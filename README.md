@@ -11,4 +11,4 @@ A randomized meldable heap (also Meldable Heap or Randomized Meldable Priority Q
 ## CONTRIBUTORS:
 - FIZA KHALID (
 - HUMEMAH KHALID (https://github.com/humemah/Randomized-Meldable-Heap)
-- SAMEERA SHEHZAD 
+- SAMEERA SHEHZAD (https://github.com/Sameera-26/Randomized-meldable-heap)
